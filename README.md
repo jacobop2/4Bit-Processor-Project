@@ -1,1 +1,2 @@
 # 4Bit-Processor-Project
+In this project, I set out to create a simple 4 bit processor on hardware. In the design, I used a routing unit, control unit, register unit, and computation unit to develop a processor which can perform eight basic logic functions and store the result in registers depending on the given routing configuration. For project details, see the attached schematic, breadboard diagram, and report.
